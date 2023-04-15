@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+I made a simple flutter application that consists of biodata of some billionaires.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (113)](https://user-images.githubusercontent.com/105560839/232184403-ed20834c-ef60-4e96-80cb-50953a56bdfb.png)
+![Screenshot (114)](https://user-images.githubusercontent.com/105560839/232184409-229642b0-528d-4f56-880d-2f75bddad84f.png)
